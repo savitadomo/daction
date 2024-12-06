@@ -1,18 +1,22 @@
 {
-  "type": "none",
+  "type": "api",
   "authCodeText": null,
-  "userName": "****",
-  "password": "****",
-  "apiKey": "****",
-  "clientKey": "****",
-  "clientSecret": "****",
+  "userName": "",
+  "password": "",
+  "apiKey": "apikey",
+  "clientKey": "",
+  "clientSecret": "",
   "authorizationURL": null,
   "accessTokenURL": null,
-  "oauthUserName": "****",
-  "oauthPassword": "****",
+  "oauthUserName": null,
+  "oauthPassword": null,
   "scope": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "additionalParameters": null,
   "tokenAddlParams": null,
