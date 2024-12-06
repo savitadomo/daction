@@ -4,11 +4,11 @@
   "connectorType": "domoAction",
   "type": "basic",
   "authCodeText": null,
-  "userName": "test",
+  "userName": "testt",
   "password": "pass",
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
     {

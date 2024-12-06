@@ -1,15 +1,15 @@
 {
   "type": "basic",
   "authCodeText": null,
-  "userName": "****",
-  "password": "****",
-  "apiKey": "****",
-  "clientKey": "****",
-  "clientSecret": "****",
+  "userName": "testt",
+  "password": "pass",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "authorizationURL": null,
   "accessTokenURL": null,
-  "oauthUserName": "****",
-  "oauthPassword": "****",
+  "oauthUserName": null,
+  "oauthPassword": null,
   "scope": null,
   "customAccountFields": [
     {
