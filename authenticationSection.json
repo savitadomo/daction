@@ -1,15 +1,15 @@
 {
-  "type": "api",
+  "type": "basic",
   "authCodeText": null,
-  "userName": "",
-  "password": "",
-  "apiKey": "apikey",
-  "clientKey": "",
-  "clientSecret": "",
+  "userName": "****",
+  "password": "****",
+  "apiKey": "****",
+  "clientKey": "****",
+  "clientSecret": "****",
   "authorizationURL": null,
   "accessTokenURL": null,
-  "oauthUserName": null,
-  "oauthPassword": null,
+  "oauthUserName": "****",
+  "oauthPassword": "****",
   "scope": null,
   "customAccountFields": [
     {
